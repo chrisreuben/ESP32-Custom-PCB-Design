@@ -1,4 +1,11 @@
-# Custom ESP32-Based Embedded System Design
+## PCB Design
 
-## Overview
-This project involves the design of a custom ESP32-based embedded system, starting from schematic capture and PCB layout to firmware programming preparation. The board was designed with RF-aware layout practices, including antenna keep-out
+This folder will contain the KiCad PCB design files for the custom ESP32-based board.
+
+Work completed:
+- Schematic capture and PCB layout in KiCad
+- RF antenna keep-out implemented using rule areas
+- Power distribution and ground plane design
+- Design Rule Check (DRC) analysis performed
+
+The PCB files are currently being refined and will be added in a future update.
